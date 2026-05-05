@@ -1,0 +1,16 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #0A0E17;
+  font-family: 'Courier New', Courier, monospace;
+  color: #E2E8F0;
+  -webkit-font-smoothing: antialiased;
+}
+
+textarea {
+  font-family: inherit;
+}
